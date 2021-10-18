@@ -1,12 +1,12 @@
 [
     {
-        "name": "project1",
+        "name": "Agents of Valorant",
         "live": "https://valorant-agents.vercel.app/",
         "git": "https://github.com/kimmiec/Valorant-Agents",
         "image": "https://i.imgur.com/OR6PZxO.png"
     },
     {
-        "name": "project2",
+        "name": "Valorant Buddies",
         "live": "https://kimmie-project2.herokuapp.com/",
         "git": "https://github.com/kimmiec/kimmie-project2",
         "image": "https://i.imgur.com/tzC2NZ2.png"
