@@ -3,12 +3,12 @@
         "name": "project1",
         "live": "https://valorant-agents.vercel.app/",
         "git": "https://github.com/kimmiec/Valorant-Agents",
-        "image": ""
+        "image": "https://imgur.com/OR6PZxO"
     },
     {
         "name": "project2",
         "live": "https://kimmie-project2.herokuapp.com/",
         "git": "https://github.com/kimmiec/kimmie-project2",
-        "image": ""
+        "image": "https://imgur.com/tzC2NZ2"
     }
 ]
