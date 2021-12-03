@@ -10,5 +10,17 @@
         "live": "https://kimmie-project2.herokuapp.com/",
         "git": "https://github.com/kimmiec/kimmie-project2",
         "image": "https://i.imgur.com/tzC2NZ2.png"
+    },
+    {
+        "name": "Cute Delights",
+        "live": "https://cute-delights.herokuapp.com/",
+        "git": "https://github.com/kimmiec/cute-frontend",
+        "image": "https://imgur.com/bj0PFxJ.png"
+    },
+    {
+        "name": "Sailor Moon RPG",
+        "live": "https://github.com/kimmiec/sailor-moon-rpg",
+        "git": "https://github.com/kimmiec/sailor-moon-rpg",
+        "image": "https://i.imgur.com/z6tRbnF.png"
     }
 ]
